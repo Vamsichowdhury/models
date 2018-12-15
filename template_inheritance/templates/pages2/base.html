@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>BASE HTML</title>
+
+  </head>
+  <body>
+    <a href="{% url 'pages2:tollysongs' %}">Tollywood songs</a><br/>
+    <a href="{% url 'pages2:bollysongs' %}">Bollywood songs</a>
+    <a href="{% url 'pages2:index' %}">index</a>
+{% block content %}
+{% endblock content %}
+  </body>
+</html>

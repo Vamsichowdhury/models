@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>base</title>
+    <a href="{% url 'pages3:home' %}">Home</a><br/>
+    <a href="{% url 'pages3:sem1' %}">sem1 results</a><br/>
+    <a href="{% url 'pages3:sem2' %}">sem2 results</a>
+  </head>
+  <body>
+    {% block content %} {% endblock %}
+  </body>
+</html>

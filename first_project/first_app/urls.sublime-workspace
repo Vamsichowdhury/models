@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"font-si",
+				"font-size\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/udemy django/FreeCourseSite.com-Udemy - Python and Django Full Stack Web Developer Bootcamp.torrent",
+		"/D/html pages/javascript html and css programs/js1.js",
+		"/C/Users/vamsi krishna/OneDrive/Desktop/website/website/wsgi.py",
+		"/C/Users/vamsi krishna/OneDrive/Desktop/website/website/urls.py",
+		"/C/Users/vamsi krishna/OneDrive/Desktop/website/website/settings.py",
+		"/C/Users/vamsi krishna/OneDrive/Desktop/website/website/__init__.py",
+		"/C/Users/vamsi krishna/OneDrive/Desktop/website/manage.py",
+		"/D/html pages/javascript html and css programs/js1.html",
+		"/D/html pages/project 1 css.css",
+		"/D/html pages/project 1.html",
+		"/D/html pages/js-1.html",
+		"/D/html pages/css layout-2 css stylesheet.css",
+		"/D/html pages/css layout-1.html",
+		"/D/html pages/14 reusing css classes css.css",
+		"/D/html pages/14 reusing css classes html.html",
+		"/D/html pages/14 reusing css classes for another pages html.html",
+		"/D/html pages/13 div  and span css.css",
+		"/D/html pages/13 div and span html.html",
+		"/D/html pages/12 text align css.css",
+		"/D/html pages/12 text align html.html",
+		"/D/html pages/11 backgroung image css.css",
+		"/D/html pages/11 backgroung image html.html",
+		"/D/html pages/10 box padding ,border html.html",
+		"/D/html pages/10 box padding ,border css.css",
+		"/D/html pages/8 external text decoration css.css",
+		"/D/html pages/7 external style sheet only css code.css",
+		"/D/html pages/8 external text decoration html.html",
+		"/D/html pages/9 inline html.html",
+		"/D/html pages/7 external stylesheet css.html",
+		"/D/html pages/6 font weight css.html",
+		"/D/html pages/5 classes 2  css.html",
+		"/D/html pages/4 classes css.html",
+		"/D/html pages/3 border css.html",
+		"/D/html pages/second.html",
+		"/D/html pages/first.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "urls.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
